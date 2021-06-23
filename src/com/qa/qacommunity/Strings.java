@@ -1,6 +1,6 @@
 package com.qa.qacommunity;
 
-public class Exercise {
+public class Strings {
 
 	public static void main(String args[]) {
 		        String str1 = "ThIsIsSoMeTeXt";
